@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*==============Banner Part================*/
+.banner{
+    background-image: url(../images/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+}
+.banner .banner_logo img{
+    padding: 30px 10px 0;
+    
+}
+
+/*==============Banner Part================*/
